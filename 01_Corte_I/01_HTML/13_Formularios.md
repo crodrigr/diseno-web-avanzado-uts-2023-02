@@ -198,3 +198,7 @@ En un formulario HTML, existen varios tipos de datos que se pueden recopilar a t
 ```
 
 Estos son solo algunos ejemplos de los tipos de datos que puedes recopilar a través de formularios HTML. Cada tipo de campo de entrada tiene su propio propósito y es útil para diferentes tipos de datos. Puedes combinar estos tipos de campos para crear formularios completos y funcionales
+
+## Practica
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/a8654924-afa7-4a74-befc-369e690dea09)
