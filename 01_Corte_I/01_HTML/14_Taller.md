@@ -38,3 +38,79 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 ```
 </p>
 </details> 
+
+<br>
+<br>
+
+### 2 Lista ordenadas y no ordenadas
+
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/a2786c4f-31a3-4e40-82d3-61c4651566e7)
+
+<details><summary>Solución lista ordenanda</summary>
+
+<p>
+
+```html
+<h2>Listas ordenadas</h2>
+
+<ol type="a" start="4">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ol>
+
+<ol start="100" reversed="reversed">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ol>
+
+<ol type="i" start="999">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ol>
+
+```
+
+</p>
+</details>
+
+
+
+<details><summary>Solución lista no ordenanda</summary>
+
+<p>
+
+```html
+<h2>Listas no ordenadas</h2>
+
+<ul type="disc">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ul>
+
+<ul type="circle">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ul>
+
+<ul type="square">
+    <li>Elemento 1</li>		
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+</ul>
+
+```
+
+</p>
+</details> 
