@@ -55,3 +55,7 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 ### 3.2 Lista anidadas
 
 ![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/a8b2ae96-35b1-4393-abb5-626c17ffa417)
+
+### 3.3 Lista anidadas
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/f9af4d3c-5ebc-47d9-81a8-9d7a2832ce15)
