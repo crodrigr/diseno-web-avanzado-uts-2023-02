@@ -1,6 +1,6 @@
-## Taller
+# Taller
 
-### 1. Formato
+## 1. Formato
 
 A continuación haz que tenga un formato según la imagen adjunta. Para eso copia el código propuesto. 
 
@@ -42,13 +42,15 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 <br>
 <br>
 
-### 2 Lista ordenadas y no ordenadas
+## 2 Lista ordenadas y no ordenadas
 
 
 ![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/a2786c4f-31a3-4e40-82d3-61c4651566e7)
 
 <br>
 <br>
+
+## 3 Lista ordenadas y no ordenadas
 
 ### 3.1 Lista anidadas
 
