@@ -47,6 +47,8 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 
 ![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/a2786c4f-31a3-4e40-82d3-61c4651566e7)
 
+<br>
+<br>
 
 ### 3.1 Lista anidadas
 
@@ -59,3 +61,40 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 ### 3.3 Lista anidadas
 
 ![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/f9af4d3c-5ebc-47d9-81a8-9d7a2832ce15)
+
+### 3.4 Lista anidadas
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/7aeaad6d-f511-48f0-9c93-83ac0d3847c8)
+
+## 4. Tablas
+
+<br>
+<br>
+
+### 4.1 Tablas
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/417035d2-2001-47a7-a7aa-6a4ecd5c6cd2)
+
+<details><summary>Estilos</summary>
+
+<p>
+
+```html
+<style>
+        
+        table{
+            border-collapse: collapse;
+        }
+        
+        td{
+            border:1px solid #000;
+            padding:25px;
+            background-color:#ccc;
+        }
+        
+</style>
+
+```
+
+</p>
+</details> 
