@@ -98,3 +98,44 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 
 </p>
 </details> 
+
+### 4.2 Tablas
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/2e6a37c1-f09b-4d6d-9fb5-9b7cb4565b6f)
+
+<details><summary>Estilos</summary>
+
+<p>
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejercicio tablas html</title>
+	<meta charset="utf-8"/>
+	<meta name="author" content="francesc ricart"/>
+	<style>
+		table{
+			border-collapse:collapse;
+			caption-side: bottom;
+		}
+		caption{
+			font-weight:bold;
+			margin-top:16px;
+		}
+		th,td{padding:5px 10px;}
+		td,th{border:1px solid #1c1c1c;text-align:center;}
+
+	</style>
+</head>
+<body>
+
+<!-- puedes copiar y pegar todo el código en sublime o brackets para resolver el ejercicio -->
+
+</body>
+</html>
+
+```
+
+</p>
+</details> 
