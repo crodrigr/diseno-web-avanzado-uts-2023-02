@@ -142,7 +142,17 @@ En su libro Tejiendo la red, publicado en 1999, Berners-Lee explica por qué la 
 </p>
 </details> 
 
+
+<br>
+<br>
+
 ## 5 Etiquetas de audio y video
 
 ![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/e5b7ec22-9264-4395-b273-b2c0390002aa)
 
+<br>
+<br><
+
+## 6 Formularios
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/7ffe3b9d-8d9d-4588-a183-e589810d8cdf)
