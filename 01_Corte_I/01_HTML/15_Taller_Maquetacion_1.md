@@ -23,3 +23,9 @@ Aquí hay un ejemplo de cómo se usa la etiqueta `<div>` en HTML:
 En este ejemplo, `<div id="contenedor">` crea un contenedor alrededor de un título (`<h1>`), un párrafo (`<p>`) y una imagen (`<img>`). Puedes aplicar estilos CSS al contenedor para darle un formato específico o manipularlo con JavaScript utilizando su identificador (`id`) como referencia.
 
 Los `<div>` se utilizan principalmente para organizar y estructurar el contenido, permitiendo un diseño más flexible y una separación clara entre diferentes partes de una página web. También se utilizan para implementar diseños sensibles (responsive) y para aplicar estilos específicos a secciones del contenido.
+
+
+## Taller en clase 
+
+![image](https://github.com/crodrigr/diseno-web-avanzado-uts-2023-02/assets/31961588/9b8fc6cf-b1b3-4938-837e-e3bd00729148)
+
