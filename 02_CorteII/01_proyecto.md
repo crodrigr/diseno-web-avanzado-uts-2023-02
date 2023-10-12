@@ -28,7 +28,7 @@ En estas tablas se va ir colocando el ingreso y el egreso con su descripción. D
 
 #### 4. Desarrollo
 
-Desarrollo esta aplicación haciendo uso de todos los conocimientos adquiridos hasta el momento con uso de clases, lista, funciónes de flecha, selectores, entro otros.  La estructura del proyecto debe ser las siguiente:
+Desarrollo esta aplicación haciendo uso de todos los conocimientos adquiridos hasta el momento con uso de **clases**, **lista**, **funciónes de flecha**, **selectores**, **entro otros**.  La estructura del proyecto debe ser las siguiente:
 
 -  index.htmla
 -  js/app.js
