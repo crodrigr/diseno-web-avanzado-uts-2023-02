@@ -1,4 +1,5 @@
-Claro, aquí tienes un ejercicio más complejo que utiliza callbacks para filtrar y transformar un array de objetos que representan productos. El enunciado es el siguiente:
+# Ejercicio Callback
+
 
 **Enunciado del ejercicio:**
 
