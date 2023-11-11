@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Parcial I 16 de Septiembre
+[Fectch api pokemon](https://www.youtube.com/watch?v=c4GXJPZjYYI)
 
 ## Calendario académico 
 
